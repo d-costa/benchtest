@@ -27,3 +27,9 @@ Files:
 - Protocols in [src/main/kotlin](src/main/kotlin)
 
 - Benchmarks in [src/jmh/kotlin](src/jmh/kotlin)
+
+
+
+Uses the [Java Microbenchmark Harness](https://github.com/openjdk/jmh) to run the
+benchmarks and the [JMH Gradle Plugin](https://github.com/melix/jmh-gradle-plugin)
+for integration into Gradle.
